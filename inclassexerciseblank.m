@@ -1,6 +1,8 @@
 %% step 1: write a few lines of code or use FIJI to separately save the
 % nuclear channel of the image Colony1.tif for segmentation in Ilastik
 
+% test
+
 %% step 2: train a classifier on the nuclei
 % try to get the get nuclei completely but separe them where you can
 % save as both simple segmentation and probabilities
